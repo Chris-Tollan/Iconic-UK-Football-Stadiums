@@ -28,6 +28,7 @@ h2 {
     float: left;
     font-size: 300%;
     text-decoration: none;
+    margin-left: 20px;
 }
 
 #nav-links {
@@ -56,4 +57,22 @@ h2 {
 
 .active {
     border-bottom: 1px solid white;
+}
+
+/*  main background image */
+
+#background-outer {
+    height: 600px;
+    width: 100%;
+    clear: both;
+}
+
+#background-image {
+    background-image: url("../images/hampden\ park\ background.jpg");
+    height: 600px;
+    width: 100%;
+    background-position: center 40%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
