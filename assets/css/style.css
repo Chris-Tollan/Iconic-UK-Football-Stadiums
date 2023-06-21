@@ -8,4 +8,52 @@
 
 body {
     font-family: "Playfair Display", sans-serif;
+    font-weight: 400;
+    color: white;
+    background-color: black;
+    width: 100%;
+}
+
+/* headings and nav bar */
+
+h1,
+h2 {
+    font-family: "Lora", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: white;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+    text-decoration: none;
+}
+
+#nav-links {
+    font-size: 200%;
+}
+
+#nav-links,
+#logo {
+    line-height: 75px;
+}
+
+#nav-links li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#nav-links a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#nav-links a:hover {
+    border-bottom: 1px solid white;
+}
+
+.active {
+    border-bottom: 1px solid white;
 }
