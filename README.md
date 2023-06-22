@@ -1,39 +1,22 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Iconic UK Football Stadiums
 
-Welcome,
+Iconic UK Football Stadiums is a website designed to showcase a number of the best stadiums that the UK has to offer. The website will provide users with some information about each stadium, photographic images from the interior and exterior of the stadiums and testimonials from some of the biggest names in football about the stadiums atmosphere. The webiste will also offer the user the access to further information about physcially attending the stadiums.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Aim
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+The aim of this website is to provide users from both the UK and abroad with details of some Iconic Football Stadiums with a view of the user eventually seeking to attend a stadium in person.
 
-## Codeanywhere Reminders
+### Business Goals
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+- To provide users with an insight/background of each of these historic stadiums 
 
-`python3 -m http.server`
+### Client Goals
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Football fans are in love with the history and prestige of football stadiums, this websites provides the user with details of some of the most iconic stadia that UK has on show and will assist the user in selecting a stadium to visit. Links will be provided which will lead them onto to the relevant third party site if they wish to book on to the specific activity.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Wireframing
 
-`http_server`
+- I initially drew my ideas onto a notepad and discussed these ideas along with how I intended to keep the website responsive to different devices and also user friendly with my mentor. I thereafter used Balsamiq to help me further visualise the ideas I had for this website.
+- After I had decided on the layouit for the homepage I decided to keep this consistent throughout the entire website which would consist of the navigation bar at the top, background image, content then at the bottom would be the footer.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+![Wireframe]
