@@ -19,4 +19,4 @@ Football fans are in love with the history and prestige of football stadiums, th
 - I initially drew my ideas onto a notepad and discussed these ideas along with how I intended to keep the website responsive to different devices and also user friendly with my mentor. I thereafter used Balsamiq to help me further visualise the ideas I had for this website.
 - After I had decided on the layouit for the homepage I decided to keep this consistent throughout the entire website which would consist of the navigation bar at the top, background image, content then at the bottom would be the footer.
 
-![Wireframe]
+![Wireframe] (https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/blob/main/assets/mockups/Home.png)
