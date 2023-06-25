@@ -36,19 +36,35 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 ## Design
 
-### Colour Scheme
+#### Colour Scheme
 
 - The main main colours used are black and white, this links the page to the two main colours often used to portray the of a football. Football fans often describe matches played in the evening as having a "special" atmosphere, the colour scheme of the site keeps in line with this as black representing the evening and white representing the stadium lighting.
+
+#### Typography
+
+
+#### Imagery
+
 
 ### Wireframing
 
 - I initially drew my ideas onto a notepad and discussed these ideas along with how I intended to keep the website responsive to different devices and also user friendly with my mentor. I thereafter used Balsamiq to help me further visualise the ideas I had for this website.
 - After I had decided on the layout for the homepage I decided to keep this consistent throughout the entire website which would consist of the navigation bar at the top, background image, content then at the bottom would be the footer.
 
+#### Desktop and Laptop Display
+
 ![Home](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/c25ab16b-3333-4d26-9fa7-3543d26b3d45)
 ![Stadiums](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/19a4538f-cb41-4ff2-a64c-41cb8f51b608)
 ![Gallery](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/441d4dc2-faaa-4d3a-8622-42de0caceace)
 ![Sign Up](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/da1d6a78-1682-4e5b-9b27-7433f91c9d85)
+
+#### Tablet and Phone Display
+
+![Home phone and tablet](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/04a30eeb-9551-4a7c-8826-0561b3ab73fe)
+![Stadium phone and tablet](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/ad3fb2f8-43ba-4f53-9cd2-10e3993c0043)
+![Gallery phone and tablet](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/73823d4d-b458-4c1b-bfa0-7bfc1b5864ab)
+![Sign Up phone and ipad](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/e0c9f2a2-e906-4af1-9b1a-567ef0d4316d)
+
 
 ### Home Page
 
@@ -59,10 +75,15 @@ The aim of this website is to provide users from both the UK and abroad with det
 **Navigation-Bar**
 
 - The navigation bar will allow the user to easily go from page to page without the need to click a back button to revert back to the previous page. The navigation bar will also be in a fixed position so there is no need for the user to keep returning to the top of the page to then navigate their way through the website.
+- For users using a larger screen (desktop/laptop) the Menu options will be displayed within the navigation bar horizontally with the page the user is currently on underlined.
+- For users using a smaller screen (tablet/phone) the menu will collapse into a Hamburger Icon.
 
 **Background-Image**
 
 - This section will include an aerial photograph of Hampden Park Stadium, which is the Scottish National Football teams stadium located in Glasgow.
+
+![hampden park background](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/d7659695-88dd-42cc-9e18-9528632464f4)
+
 
 **Content**
 
