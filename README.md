@@ -42,9 +42,13 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 #### Typography
 
+- The Lora font will be used for headers consisgtently throughout the website with the Playfair Display font being used for all other text. Both fonts are attractive, clean and compliment each other well which will provide for a good user experience. Sans serif will be used throughout as a back up font.
 
 #### Imagery
 
+- The large background image is an artists impressions of Hampden Park Stadium in Glasgow, Scotland. This image is striking and has been selected as the background image to captivate the user immediately.
+- The images for the stadium page will be an aerial side profile image which will capture the entirity of each stadium.
+- The images for the gallery oage will consist of four for each stadium, outside of stadium, inside the stadium on a match day, image of hospitality suite within stadium and trophy room/museum. 
 
 ### Wireframing
 
