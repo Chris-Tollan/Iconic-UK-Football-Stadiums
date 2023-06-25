@@ -12,7 +12,33 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 ### Client Goals
 
-Football fans are in love with the history and prestige of football stadiums, this websites provides the user with details of some of the most iconic stadia that UK has on show and will assist the user in selecting a stadium to visit. Links will be provided which will lead them onto to the relevant third party site if they wish to book on to the specific activity.
+- Football fans are in love with the history and prestige of football stadiums, this websites provides the user with details of some of the most iconic stadia that UK has on show and will assist the user in selecting a stadium to visit. Links will be provided which will lead them onto to the relevant third party site if they wish to book on to the specific activity.
+
+## User Experience (UX)
+
+### User Stories
+
+- As a first time visitor, I want to easily understand the main purpose if the site.
+- As a first time visitor, I want to be able to easily navigate throughout the site to find content.
+- As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+
+### Returning Visitor Goals 
+
+- As a returning visitor, I want to find information about stadiums and where they are located.
+- As a returning visitor, I want to be able to contact the website operators for more information.
+- As a returning visitor, I want to find community links.
+
+### Frequent User Goals
+
+- As a frequent user, I want to checks to see if there is any new information about the stadiums or any new stadiums added.
+- As a frequent user, I want to be able to easily see new testimonials and social media posts about the stadiums featured.
+- As a freuqent user, I want to sign up to receive information about attending the stadiums featured, how to obtain match tickets, what the stadiums have to offer, travel links and nearby accomodation.
+
+## Design
+
+### Colour Scheme
+
+- The main main colours used are black and white, this links the page to the two main colours often used to portray the of a football. Football fans often describe matches played in the evening as having a "special" atmosphere, the colour scheme of the site keeps in line with this as black representing the evening and white representing the stadium lighting.
 
 ### Wireframing
 
@@ -23,10 +49,6 @@ Football fans are in love with the history and prestige of football stadiums, th
 ![Stadiums](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/19a4538f-cb41-4ff2-a64c-41cb8f51b608)
 ![Gallery](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/441d4dc2-faaa-4d3a-8622-42de0caceace)
 ![Sign Up](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/da1d6a78-1682-4e5b-9b27-7433f91c9d85)
-
-## Features
-
-- The background color for the website will be black and text will be white. Apart from the fact white obviously pops and contrasts with black which will make all text on the webiste stand out and be easy to read the colors were also chosen as alot of vintage footballs were made of black and white leather patches. It is also the opinion of alot of football fans that nothing beats visiting a stadium a night and watching a game "under the lights", the colors of black and white keep with this theme.
 
 ### Home Page
 
@@ -66,5 +88,17 @@ Football fans are in love with the history and prestige of football stadiums, th
 
 - The footer will remain fixed at the bootom of every page fetaured on the website.
 - The footer will contain links to social media pages and also a contact us link which will navigate to the Sign Up page wheere the contact us form will be located.
+
+## Features
+
+- Responsive on all device sizes.
+- Interactive elements.
+
+## Technologies Used
+
+### Languages Used
+
+- HTML5
+- CSS
 
 
