@@ -57,17 +57,19 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 #### Desktop and Laptop Display
 
-![Home](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/c25ab16b-3333-4d26-9fa7-3543d26b3d45)
-![Stadiums](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/19a4538f-cb41-4ff2-a64c-41cb8f51b608)
-![Gallery](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/441d4dc2-faaa-4d3a-8622-42de0caceace)
-![Sign Up](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/da1d6a78-1682-4e5b-9b27-7433f91c9d85)
+![Home](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/e76b547c-4ee1-4e65-a68c-d667f726d66e)
+![Stadiums](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/7e3b2828-3a53-48d2-96f1-e05a635ec770)
+![Gallery](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/72360b33-4c0a-4b70-9836-0f8c2d7102f3)
+![Sign Up](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/e1bbb141-d0c4-4336-b218-1b737b839094)
+
 
 #### Tablet and Phone Display
 
-![Home phone and tablet](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/04a30eeb-9551-4a7c-8826-0561b3ab73fe)
-![Stadium phone and tablet](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/ad3fb2f8-43ba-4f53-9cd2-10e3993c0043)
-![Gallery phone and tablet](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/73823d4d-b458-4c1b-bfa0-7bfc1b5864ab)
-![Sign Up phone and ipad](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/e0c9f2a2-e906-4af1-9b1a-567ef0d4316d)
+![Home for smaller devices](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/df7d18c8-b019-4069-ae79-04a4fe3ea681)
+![Stadiums for smaller devices](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/db5df6df-f845-4117-bf50-02b95a69b0fd)
+![Gallery for smaller devices](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/5514c84e-4865-4636-9c30-0e59cd4cd015)
+![Sign up for smaller devices](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/f13c2a25-ebae-4f5e-ae60-0c18fa6540be)
+
 
 
 ### Home Page
