@@ -8,16 +8,117 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 ### Business Goals
 
-- To provide users with an insight/background of each of these historic stadiums 
+- To provide users with an insight/background of each of these historic stadiums
 
 ### Client Goals
 
-Football fans are in love with the history and prestige of football stadiums, this websites provides the user with details of some of the most iconic stadia that UK has on show and will assist the user in selecting a stadium to visit. Links will be provided which will lead them onto to the relevant third party site if they wish to book on to the specific activity.
+- Football fans are in love with the history and prestige of football stadiums, this websites provides the user with details of some of the most iconic stadia that UK has on show and will assist the user in selecting a stadium to visit. Links will be provided which will lead them onto to the relevant third party site if they wish to book on to the specific activity.
+
+## User Experience (UX)
+
+### User Stories
+
+- As a first time visitor, I want to easily understand the main purpose if the site.
+- As a first time visitor, I want to be able to easily navigate throughout the site to find content.
+- As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+
+### Returning Visitor Goals
+
+- As a returning visitor, I want to find information about stadiums and where they are located.
+- As a returning visitor, I want to be able to contact the website operators for more information.
+- As a returning visitor, I want to find community links.
+
+### Frequent User Goals
+
+- As a frequent user, I want to checks to see if there is any new information about the stadiums or any new stadiums added.
+- As a frequent user, I want to be able to easily see new testimonials and social media posts about the stadiums featured.
+- As a freuqent user, I want to sign up to receive information about attending the stadiums featured, how to obtain match tickets, what the stadiums have to offer, travel links and nearby accomodation.
+
+## Design
+
+#### Colour Scheme
+
+- The main main colours used are black and white, this links the page to the two main colours often used to portray the of a football. Football fans often describe matches played in the evening as having a "special" atmosphere, the colour scheme of the site keeps in line with this as black representing the evening and white representing the stadium lighting.
+
+#### Typography
+
+- The Lora font will be used for headers consisgtently throughout the website with the Playfair Display font being used for all other text. Both fonts are attractive, clean and compliment each other well which will provide for a good user experience. Sans serif will be used throughout as a back up font.
+
+#### Imagery
+
+- The large background image is an artists impressions of Hampden Park Stadium in Glasgow, Scotland. This image is striking and has been selected as the background image to captivate the user immediately.
+- The images for the stadium page will be an aerial side profile image which will capture the entirity of each stadium.
+- The images for the gallery oage will consist of four for each stadium, outside of stadium, inside the stadium on a match day, image of hospitality suite within stadium and trophy room/museum.
 
 ### Wireframing
 
-- I initially drew my ideas onto a notepad and discussed these ideas, along with how I intended to keep the website responsive to different devices and also user friendly with my mentor. I thereafter used Balsamiq to help me further visualise the ideas I had for this website.
-- After I had decided on the layouit for the homepage I decided to keep this consistent throughout the entire website which would consist of the navigation bar at the top, background image, content then at the bottom would be the footer.
+- I initially drew my ideas onto a notepad and discussed these ideas along with how I intended to keep the website responsive to different devices and also user friendly with my mentor. I thereafter used Balsamiq to help me further visualise the ideas I had for this website.
+- After I had decided on the layout for the homepage I decided to keep this consistent throughout the entire website which would consist of the navigation bar at the top, background image, content then at the bottom would be the footer.
 
-![Wireframe for Home] (https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/blob/main/assets/mockups/home.png)
+#### Desktop and Laptop Display
 
+![Home](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/e76b547c-4ee1-4e65-a68c-d667f726d66e)
+![Stadiums](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/7e3b2828-3a53-48d2-96f1-e05a635ec770)
+![Gallery](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/72360b33-4c0a-4b70-9836-0f8c2d7102f3)
+![Sign Up](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/e1bbb141-d0c4-4336-b218-1b737b839094)
+
+#### Tablet and Phone Display
+
+![Home for smaller devices](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/df7d18c8-b019-4069-ae79-04a4fe3ea681)
+![Stadiums for smaller devices](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/db5df6df-f845-4117-bf50-02b95a69b0fd)
+![Gallery for smaller devices](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/5514c84e-4865-4636-9c30-0e59cd4cd015)
+![Sign up for smaller devices](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/f13c2a25-ebae-4f5e-ae60-0c18fa6540be)
+
+### Home Page
+
+**Nav-Bar, Background-Image and Footer**
+
+- The Nav bar, background image and footer will feature exactly the same on each page of the website. This will ensure user familiarity throughout the website and assist to make sure the website remains easy to navigate.
+
+**Navigation-Bar**
+
+- The navigation bar will allow the user to easily go from page to page without the need to click a back button to revert back to the previous page. The navigation bar will also be in a fixed position so there is no need for the user to keep returning to the top of the page to then navigate their way through the website.
+- For users using a larger screen (desktop/laptop) the Menu options will be displayed within the navigation bar horizontally with the page the user is currently on underlined.
+- For users using a smaller screen (tablet/phone) the menu will collapse into a Hamburger Icon.
+
+**Background-Image**
+
+- This section will include an aerial photograph of Hampden Park Stadium, which is the Scottish National Football teams stadium located in Glasgow.
+
+![hampden park background](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/d7659695-88dd-42cc-9e18-9528632464f4)
+
+**Content**
+
+- This section will be a carousel which will automatically slide through quotes and testimonials from famous footballing figures and also from fans who have visited the stadiums featured on the webiste. The idea of using a carousel is to keep the home page interactive for the user with the quotes and testimonials being used to engage the user.
+
+### Stadiums
+
+- This section is where the user can observe an image of each stadium which can be clicked or pressed to reveal further information about each stadium.
+- Each image will also have a link to the teams website who play at the stadium.
+
+### Gallery
+
+- The Gallery page will feature a circle (chosen due to this also being the shape of a football) with text within describing what the user can hope to achieve by viewing the gallery of photgraphs on this page.
+- The photographs will show the user key areas of each stadium. The photographs will be contained with a carousel which the user will be required to click or swipe through these images. This will keep the page interactive and allow the user to browse the image at their own pace and viewing pleasure.
+
+### Sign-Up
+
+- This page will feature both a sign up form where the user can select a stadium from a drop down menu, fill out there details and submit them with the idea being they would receive further information on visiting the stadium.
+- The page will also feature a contact us form where the user can fill out their details and then type their comments/suggestions into a free text box.
+
+### The footer
+
+- The footer will remain fixed at the bootom of every page fetaured on the website.
+- The footer will contain links to social media pages and also a contact us link which will navigate to the Sign Up page wheere the contact us form will be located.
+
+## Features
+
+- Responsive on all device sizes.
+- Interactive elements.
+
+## Technologies Used
+
+### Languages Used
+
+- HTML5
+- CSS
