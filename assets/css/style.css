@@ -89,10 +89,23 @@ h2 {
     padding: 40px;
 }
 
+#about-heading {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 200%;
+    margin-bottom: 100px;
+}
+
+
+
 /* footer (code institute love running walkthrough project code followed for footer socialswith contact us link added */
 
 footer {
     height: 100px;
+    border-radius: 25px;
+    border: 2px solid white;
+    padding: 20px;
+    width: 100%;
 }
 
 .social-networks {
