@@ -70,16 +70,23 @@ h2 {
     background-size: cover;
     position: relative;
     overflow: hidden;
+    margin-bottom: 40px;
 }
 
 /** home page about stadiums and testimonials section **/
 
 #about-stadiums {
-    padding-top: 40px;
     width: 50%;
     margin: 0 auto;
     text-align: center;
     font-size: 120%;
+    margin-bottom: 40px;
+}
+
+.about-border {
+    border-radius: 25px;
+    border: 2px solid white;
+    padding: 40px;
 }
 
 /* footer (code institute love running walkthrough project code followed for footer socialswith contact us link added */
