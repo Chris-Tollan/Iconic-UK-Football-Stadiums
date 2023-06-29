@@ -87,7 +87,7 @@ h2 {
     border-radius: 25px;
     border: 2px solid white;
     padding: 40px;
-}
+    }
 
 #about-heading {
     text-align: center;
@@ -102,10 +102,7 @@ h2 {
 
 footer {
     height: 100px;
-    border-radius: 25px;
-    border: 2px solid white;
-    padding: 20px;
-    width: 100%;
+    position: absolute;
 }
 
 .social-networks {
@@ -125,13 +122,4 @@ footer {
     margin-left: 20px;
     padding: 1%;
     color: white;
-}
-
-.footer-contact {
-    float: right;
-    margin-right: 55px;
-    font-size: 75%;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 90px;
 }
