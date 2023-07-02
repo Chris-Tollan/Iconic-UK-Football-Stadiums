@@ -125,7 +125,7 @@ footer {
 /* Gallery Page */
 
 #gallery-carousel {
-    height: 500px;
+    height: 8 00px;
     width: 100%;
     padding: 50px 100px;
     contain: content;
@@ -133,17 +133,31 @@ footer {
 
 /* sign up page */
 
-#signup {
+#signup-contact {
+    padding: 20px;
+    font-size: 150%;
+}
+
+.signup {
     height: auto;
-    width: 40%;
+    width: 50%;
     float: left;
     border-radius: 25px;
     border: 2px solid white;
-    padding-left: 20px;
+    padding: 10px;
 }
 
 #signup h2 {
     text-align: center;
+}
+
+.submit {
+    float: right;
+    border-radius: 50%;
+    border: solid 2px white;
+    width: 5em;
+    height: 5em;
+    font-size: 100%;
 }
 
 #contact-us {
@@ -152,7 +166,6 @@ footer {
     float: right;
     border-radius: 25px;
     border: 2px solid white;
-    padding-right: 20px;
 }
 
 #contact-us h2 {
