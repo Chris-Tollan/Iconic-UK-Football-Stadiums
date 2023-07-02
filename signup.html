@@ -46,6 +46,17 @@
                 visit, where to stay, everything the stadium has to offer and much more!</p>
             <br>
             <form method="POST" action="https://formdump.codeinstitute.net/">
+                <label for="stadium">Stadium: </label>
+                <input type="text" id="stadium" list="stadium" name="stadium">
+                <datalist id="stadium">
+                    <option value="Hampden"></option>
+                    <option value="Ibrox"></option>
+                    <option value="Celtic Park"></option>
+                    <option value="Wembley"></option>
+                    <option value="Anfield"></option>
+                    <option value="Old Trafford"></option>
+                </datalist>
+                <br>
                 <label for="fname">First Name: </label>
                 <input type="text" id="fname" name="firstname" placeholder="First Name" required />
                 <br>
@@ -54,6 +65,30 @@
                 <br>
                 <label for="email">Email Address: </label>
                 <input type="email" id="email" name="email" placeholder="Email Address" required />
+                <br>
+                <input class="submit" type="Submit" />
+
+
+            </form>
+        </div>
+        <div class="contact-us">
+            <h2><u>Contact Us</u></h2>
+            <p>Feel free to contact us by filling out your details and comments!</p>
+            <br>
+            <form method="POST" action="https://formdump.codeinstitute.net/">
+                <label for="fname">First Name: </label>
+                <input type="text" id="fname" name="firstname" placeholder="First Name" required />
+                <br>
+                <label for="lname">Last Name: </label>
+                <input type="text" id="lname" name="lastname" placeholder="Last Name" required />
+                <br>
+                <label for="email">Email Address: </label>
+                <input type="email" id="email" name="email" placeholder="Email Address" required />
+                <br>
+                <label for="comments">Add your comments of queries here: </label>
+                <br>
+                <textarea name="comments" id="comments" placeholder="Add your comments or queries here!" rows="5"
+                    cols="40"></textarea>
                 <br>
                 <input class="submit" type="Submit" />
 
