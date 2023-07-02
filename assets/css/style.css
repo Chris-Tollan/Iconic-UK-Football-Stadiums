@@ -99,27 +99,28 @@ h2 {
 /* footer (code institute love running walkthrough project code followed for footer socialswith contact us link added */
 
 footer {
-    height: 100px;
-    position: absolute;
+    height: 150px;
 }
 
 .social-networks {
-    float: left;
     text-align: center;
-    vertical-align: middle;
-    line-height: 90px;
 }
 
 .social-networks>li {
-    display: inline-block;
-    width: 100px;
+    display: inline;
 }
 
 .social-networks i {
-    font-size: 150%;
-    margin-left: 20px;
-    padding: 1%;
+    font-size: 160%;
+    margin: 1%;
+    padding: 0 5%;
     color: white;
+}
+
+.footer-contact {
+    font-size: 160%;
+    color: white;
+    text-align: center;
 }
 
 /* Gallery Page */
