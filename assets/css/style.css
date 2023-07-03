@@ -123,6 +123,31 @@ footer {
     text-align: center;
 }
 
+/* Stadium Page */
+
+#stadiums-heading {
+    text-align: center;
+}
+
+#stadium-content {
+    clear: both;
+    line-height: 0;
+    column-count: 6;
+    display: inline;
+}
+
+.stadium-img {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+}
+
+.stadium-img:hover {
+    box-shadow: 0 0 2px 1px rgba(247, 248, 249, 0.932);
+}
+
 /* Gallery Page */
 
 #gallery-carousel {
