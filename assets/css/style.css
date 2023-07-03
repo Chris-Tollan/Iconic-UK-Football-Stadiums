@@ -179,6 +179,7 @@ footer {
 #signup-contact {
     padding: 20px;
     font-size: 150%;
+
 }
 
 .signup {
@@ -188,6 +189,7 @@ footer {
     border-radius: 25px;
     border: 2px solid white;
     padding: 10px;
+    background-color: rgba(20, 20, 21, 0.7);
 }
 
 .signup h2 {
@@ -210,6 +212,7 @@ footer {
     border-radius: 25px;
     border: 2px solid white;
     padding: 10px;
+    background-color: rgba(20, 20, 21, 0.7);
 }
 
 .contact-us h2 {
