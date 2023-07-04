@@ -47,15 +47,14 @@
             <br>
             <form method="POST" action="https://formdump.codeinstitute.net/">
                 <label for="stadium">Stadium: </label>
-                <input type="text" id="stadium" list="stadium" name="stadium">
-                <datalist id="stadium">
-                    <option value="Hampden"></option>
-                    <option value="Ibrox"></option>
-                    <option value="Celtic Park"></option>
-                    <option value="Wembley"></option>
-                    <option value="Anfield"></option>
-                    <option value="Old Trafford"></option>
-                </datalist>
+                <select id="stadium" name="stadium" required>
+                    <option value="Hampden">Hampden</option>
+                    <option value="Ibrox">Ibrox</option>
+                    <option value="Celtic Park">Celtic Park</option>
+                    <option value="Wembley">Wembley</option>
+                    <option value="Anfield">Anfield</option>
+                    <option value="Old Trafford">Old Tafford</option>
+                </select>
                 <br>
                 <label for="fname">First Name: </label>
                 <input type="text" id="fname" name="firstname" placeholder="First Name" required />

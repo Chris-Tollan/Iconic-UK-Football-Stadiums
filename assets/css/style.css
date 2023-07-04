@@ -174,7 +174,7 @@ footer {
     background-color: rgba(9, 114, 35, 0.7);
 }
 
-/* sign up page */
+/* sign up and contact us page */
 
 #signup-contact {
     padding: 20px;
@@ -200,7 +200,7 @@ footer {
 .submit {
     float: right;
     border-radius: 50%;
-    border: solid 2px white;
+    border: solid 2px black;
     width: 5em;
     height: 5em;
     font-size: 100%;
@@ -220,3 +220,14 @@ footer {
 .contact-us h2 {
     text-align: center;
 }
+
+#fname,
+#lname,
+#email,
+#stadium {
+    height: 35px;
+    width: 200px;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+
