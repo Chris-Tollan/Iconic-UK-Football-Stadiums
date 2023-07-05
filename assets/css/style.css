@@ -129,7 +129,16 @@ footer {
 
 #stadiums-heading {
     text-align: center;
+    font-size: 120%;
+    width: 70%;
+    height: auto;
+    background-color: rgba(9, 114, 35, 0.7);
+    margin: 0 auto;
+    text-align: center;
+    font-size: 120%;
     margin-bottom: 40px;
+    border-radius: 25px;
+    border: 2px solid white;
 }
 
 #stadium-content {
@@ -145,10 +154,15 @@ footer {
     padding: 5px;
     width: 200px;
     height: 150px;
+    margin-bottom: 40px;
 }
 
 .stadium-img:hover {
     box-shadow: 0 0 2px 1px rgba(247, 248, 249, 0.932);
+}
+
+.modal-dialog {
+    color: black;
 }
 
 /* Gallery Page */
