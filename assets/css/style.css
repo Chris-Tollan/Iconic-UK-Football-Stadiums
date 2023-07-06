@@ -142,10 +142,11 @@ footer {
 }
 
 #stadium-content {
-    clear: both;
-    line-height: 0;
     column-count: 6;
     display: inline;
+    margin: auto;
+    display: flex;
+    justify-content: center;
 }
 
 .stadium-img {
