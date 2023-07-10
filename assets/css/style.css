@@ -247,3 +247,15 @@ footer {
     border-radius: 25px;
     border: 2px solid black;
 }
+
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+
+    #gallery-carousel {
+        height: 800px;
+        width: 850px;
+    }
+
+    #circle-container {
+        margin-right: 5%;
+    }
