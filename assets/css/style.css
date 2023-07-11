@@ -17,8 +17,7 @@ body {
 /* headings and nav bar */
 
 h1,
-h2,
-p {
+h2 {
     font-family: "Lora", sans-serif;
     font-weight: 500;
     text-transform: uppercase;
@@ -104,6 +103,7 @@ p {
 
 footer {
     height: 150px;
+    clear: both;
 }
 
 .social-networks {
@@ -146,19 +146,19 @@ footer {
 
 #stadium-content {
     column-count: 6;
-    display: inline;
-    margin: auto;
-    display: flex;
-    justify-content: center;
+
 }
 
 .stadium-img {
     border: 1px solid white;
     border-radius: 5px;
     padding: 5px;
-    width: 150px;
+    width: 175px;
     height: 150px;
     margin-bottom: 40px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
 }
 
 .stadium-img:hover {
@@ -169,11 +169,12 @@ footer {
     color: black;
 }
 
+
+
 /* Gallery Page */
 
 #gallery-carousel {
     padding: 50px 100px;
-    position: relative;
 }
 
 .carousel-inner img {
@@ -255,40 +256,31 @@ footer {
 
 /* media queries */
 /* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-width: 1200px) {
-
-    #gallery-carousel {
-        height: 800px;
-        width: 850px;
+@media screen and (max-width: 1100px) {
+    .signup {
+        height: fit-content;
+        width: 90%;
+        float: left;
     }
 
-    #circle-container {
-        margin-right: 5%;
-    }
-}
-
-/* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-    #logo {
-        text-align: center;
-        font-size: 300%;
-    }
-
-    #background-image {
-        height: 200px;
-    }
-
-    #gallery-carousel {
-        height: 600px;
-        width: 650px;
+    .contact-us {
+        height: fit-content;
+        width: 90%;
+        float: left;
     }
 }
 
-/* For medium screen sizes from 650px wide and down */
-@media screen and (max-width: 650px) {
+/* media queries */
+/* For larger to medium screens size from 1100px wide and down */
+@media screen and (max-width: 1100px) {
+    #stadium-content {
+        column-count: 3;
+    }
+}
 
-    #gallery-carousel {
-        height: 300px;
-        width: 350px;
+/* For medium to smaller screens size from 700px wide and down */
+@media screen and (max-width: 700px) {
+    #stadium-content {
+        column-count: 2;
     }
 }
