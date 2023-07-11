@@ -14,6 +14,8 @@ body {
     width: 100%;
 }
 
+
+
 /* headings and nav bar */
 
 h1,
@@ -33,7 +35,7 @@ h2 {
 }
 
 #nav-links {
-    font-size: 200%;
+    font-size: 125%;
 }
 
 #nav-links,
@@ -273,8 +275,9 @@ footer {
 /* media queries */
 /* For larger to medium screens size from 1100px wide and down */
 @media screen and (max-width: 1100px) {
-#background-image {
-        height: 200px; }
+    #background-image {
+        height: 200px;
+    }
 
     #stadium-content {
         column-count: 3;
