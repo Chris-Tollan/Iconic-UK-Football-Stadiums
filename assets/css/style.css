@@ -172,24 +172,27 @@ footer {
 /* Gallery Page */
 
 #gallery-carousel {
-    height: 900px;
-    width: 950px;
+    height: fit-content;
     padding: 50px 100px;
     position: relative;
 }
 
+.carousel-inner img {
+    margin: auto;
+}
+
 #gallery {
     text-align: center;
-        font-size: 120%;
-        width: 70%;
-        height: auto;
-        background-color: rgba(9, 114, 35, 0.7);
-        margin: 0 auto;
-        text-align: center;
-        font-size: 120%;
-        margin-bottom: 40px;
-        border-radius: 25px;
-        border: 2px solid white;
+    font-size: 120%;
+    width: 70%;
+    height: auto;
+    background-color: rgba(9, 114, 35, 0.7);
+    margin: 0 auto;
+    text-align: center;
+    font-size: 120%;
+    margin-bottom: 40px;
+    border-radius: 25px;
+    border: 2px solid white;
 }
 
 /* sign up and contact us page */
