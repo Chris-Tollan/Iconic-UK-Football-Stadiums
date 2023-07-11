@@ -17,7 +17,8 @@ body {
 /* headings and nav bar */
 
 h1,
-h2 {
+h2,
+p {
     font-family: "Lora", sans-serif;
     font-weight: 500;
     text-transform: uppercase;
@@ -75,8 +76,8 @@ h2 {
 /** home page about stadiums and testimonials section **/
 
 #about-stadiums {
-    width: 700px;
-    height: 300px;
+    width: 75%;
+    height: auto;
     background-color: rgba(9, 114, 35, 0.7);
     margin: 0 auto;
     text-align: center;
@@ -155,7 +156,7 @@ footer {
     border: 1px solid white;
     border-radius: 5px;
     padding: 5px;
-    width: 200px;
+    width: 150px;
     height: 150px;
     margin-bottom: 40px;
 }
@@ -177,18 +178,18 @@ footer {
     position: relative;
 }
 
-#circle-container {
-    font-size: 150%;
-    float: right;
-    height: 300px;
-    width: 300px;
-    border: solid 4px white;
-    border-radius: 50%;
+#gallery {
     text-align: center;
-    padding-top: 75px;
-    margin-right: 12%;
-    margin-top: 50px;
-    background-color: rgba(9, 114, 35, 0.7);
+        font-size: 120%;
+        width: 70%;
+        height: auto;
+        background-color: rgba(9, 114, 35, 0.7);
+        margin: 0 auto;
+        text-align: center;
+        font-size: 120%;
+        margin-bottom: 40px;
+        border-radius: 25px;
+        border: 2px solid white;
 }
 
 /* sign up and contact us page */
@@ -248,6 +249,7 @@ footer {
     border: 2px solid black;
 }
 
+/* media queries */
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
 
@@ -259,3 +261,30 @@ footer {
     #circle-container {
         margin-right: 5%;
     }
+}
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #logo {
+        text-align: center;
+        font-size: 300%;
+    }
+
+    #background-image {
+        height: 200px;
+    }
+
+    #gallery-carousel {
+        height: 600px;
+        width: 650px;
+    }
+}
+
+/* For medium screen sizes from 650px wide and down */
+@media screen and (max-width: 650px) {
+
+    #gallery-carousel {
+        height: 300px;
+        width: 350px;
+    }
+}
