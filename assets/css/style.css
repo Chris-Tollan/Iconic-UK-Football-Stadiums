@@ -172,13 +172,14 @@ footer {
 /* Gallery Page */
 
 #gallery-carousel {
-    height: fit-content;
     padding: 50px 100px;
     position: relative;
 }
 
 .carousel-inner img {
     margin: auto;
+    max-height: 500px;
+    width: auto;
 }
 
 #gallery {
