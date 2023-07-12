@@ -83,7 +83,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 **Background-Image**
 
-- This section will include an aerial photograph of Hampden Park Stadium, which is the Scottish National Football teams stadium located in Glasgow.
+- This section will include a stock image of fans celebrating within a stadium.
 
 ![background image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/1eeee809-08ac-48e2-b00d-4080f49aa58b)
 
