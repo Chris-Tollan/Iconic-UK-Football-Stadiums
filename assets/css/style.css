@@ -29,7 +29,6 @@ h2 {
     float: left;
     font-size: 200%;
     text-decoration: none;
-    margin: auto;
     padding-left: 20px;
 }
 
@@ -45,7 +44,7 @@ h2 {
 #nav-links li {
     float: right;
     list-style-type: none;
-    margin-right: 20px;
+    padding-right: 20px;
 }
 
 #nav-links a {
