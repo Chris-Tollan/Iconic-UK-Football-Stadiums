@@ -38,7 +38,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 #### Colour Scheme
 
-- The main main colours used are black and white, this links the page to the two main colours often used to portray the of a football. Football fans often describe matches played in the evening as having a "special" atmosphere, the colour scheme of the site keeps in line with this as black representing the evening and white representing the stadium lighting.
+- There are three main colours used in this project - black green and white, this links the page to the two main colours (black and white) often used to portray the image of a football. Football fans often describe matches played in the evening as having a "special" atmosphere, the colour scheme of the site keeps in line with this as black representing the evening and white representing the stadium lighting. A green background with white writing will be used throughout for areas of text, this keeps in line with the football theme with green representing the grass of the pitch and white in this case representing the the lines on the pitch.
 
 #### Typography
 
@@ -46,9 +46,9 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 #### Imagery
 
-- The large background image is an artists impressions of Hampden Park Stadium in Glasgow, Scotland. This image is striking and has been selected as the background image to captivate the user immediately.
+- The background image is a stock image of fans celebrating within a stadium. This image is striking and has been selected as the background image to captivate the user immediately.
 - The images for the stadium page will be an aerial side profile image which will capture the entirity of each stadium.
-- The images for the gallery oage will consist of four for each stadium, outside of stadium, inside the stadium on a match day, image of hospitality suite within stadium and trophy room/museum.
+- The images for the gallery page will consist of four for each stadium, outside of stadium, inside the stadium and images from well known spots of the stadium.
 
 ### Wireframing
 
@@ -85,7 +85,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 - This section will include an aerial photograph of Hampden Park Stadium, which is the Scottish National Football teams stadium located in Glasgow.
 
-![hampden park background](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/d7659695-88dd-42cc-9e18-9528632464f4)
+![background image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/1eeee809-08ac-48e2-b00d-4080f49aa58b)
 
 **Content**
 
@@ -122,3 +122,28 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 - HTML5
 - CSS
+
+### Frameworks, Libraries and Programs Used
+
+## Testing
+
+## Known Bugs
+
+### Deployment
+
+## Credits
+
+### Code
+
+### Content
+
+- Al the content was writieen by developer however information such as stadium capacity, year built, address and information about what you can do at each stadium was obtained from each teams website which is hyperlinked in the website and also wikipedia.
+
+### Media
+
+- All images were obtained from Google Images with advanced search settings being used to ensure the images used are fully available for reuse and that there was no copyright infringement.
+
+### Acknowledgements
+
+- My mentor for continuous support, feedback and direction.
+- Code Institute for providing me with the knowledge and learning material required to complete this project.
