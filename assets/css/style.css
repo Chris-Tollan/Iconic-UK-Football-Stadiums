@@ -166,6 +166,10 @@ h2 {
     margin-bottom: 40px;
 }
 
+#about-stadiums h2 {
+    text-transform: uppercase;
+}
+
 .about-border {
     border-radius: 25px;
     border: 2px solid white;
@@ -222,6 +226,10 @@ footer {
     margin-bottom: 100px;
     border-radius: 25px;
     border: 2px solid white;
+}
+
+#stadiums-heading h2 {
+    text-transform: uppercase;
 }
 
 #stadium-content {
@@ -298,6 +306,7 @@ footer {
 
 .signup h2 {
     text-align: center;
+    text-transform: uppercase;
 }
 
 .submit {
@@ -322,6 +331,7 @@ footer {
 
 .contact-us h2 {
     text-align: center;
+    text-transform: uppercase;
 }
 
 #fname,
@@ -382,8 +392,8 @@ footer {
 /* For medium to smaller screens size from 700px wide and down */
 @media screen and (max-width: 700px) {
 
-    .logo {
-        font-size: 50%;
+    .logo h1 {
+        font-size: 180%;
     }
 
     #about-stadiums {
@@ -392,5 +402,12 @@ footer {
 
     #stadium-content {
         column-count: 2;
+    }
+}
+
+/* For medium to smaller screens size from 350px wide and down */
+@media screen and (max-width: 350px) {
+    .logo h1 {
+        font-size: 160%;
     }
 }
