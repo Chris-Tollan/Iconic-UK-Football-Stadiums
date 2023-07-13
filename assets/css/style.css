@@ -20,9 +20,13 @@ body {
 h1,
 h2 {
     font-family: "Lora", sans-serif;
-    font-weight: 500;
-    text-transform: uppercase;
+    font-weight: 100;
     color: white;
+}
+
+.logo {
+    font-size: 75%;
+    text-transform: capitalize;
 }
 
 .header {
@@ -45,7 +49,7 @@ h2 {
     padding: 20px 20px;
     text-decoration: none;
     color: white;
-    font-size: 120%;
+    font-size: 75%;
 }
 
 .header li a:hover,
@@ -147,7 +151,7 @@ h2 {
     position: relative;
     overflow: hidden;
     margin-bottom: 40px;
-    padding-top: 40px
+    padding-top: 40px;
 }
 
 /** home page about stadiums and testimonials section **/
@@ -348,10 +352,6 @@ footer {
 
 /* For larger to medium screens size from 1100px wide and down */
 @media screen and (max-width: 1100px) {
-    #background-image {
-        height: 200px;
-    }
-
     #stadium-content {
         column-count: 3;
     }
@@ -381,6 +381,10 @@ footer {
 
 /* For medium to smaller screens size from 700px wide and down */
 @media screen and (max-width: 700px) {
+
+    .logo {
+        font-size: 50%;
+    }
 
     #about-stadiums {
         width: 90%;
