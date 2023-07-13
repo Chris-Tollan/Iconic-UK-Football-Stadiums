@@ -60,14 +60,6 @@ h2 {
     border-bottom: 1px solid white;
 }
 
-.hamburger {
-    background-color: transparent;
-    color: white;
-    font-size: 150%;
-    cursor: pointer;
-    display: none;
-}
-
 /*  main background image */
 
 #background-image {
@@ -282,17 +274,6 @@ footer {
 
     #stadium-content {
         column-count: 3;
-    }
-}
-
-/* For screens size from 950px wide and down */
-@media screen and (max-width: 950px) {
-    #nav-links {
-        display: none;
-    }
-
-    .hamburger {
-        display: block;
     }
 }
 
