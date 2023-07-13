@@ -13,7 +13,7 @@ body {
     background-color: black;
     width: 100%;
     overflow-y: visible;
-    }
+}
 
 /* headings and nav bar (code for hamburger icon obtained from codepen.io */
 
@@ -31,7 +31,7 @@ h2 {
     position: fixed;
     width: 100%;
     z-index: 3;
-    }
+}
 
 .header ul {
     margin: 0;
@@ -39,7 +39,7 @@ h2 {
     list-style: none;
     overflow: hidden;
     background-color: black;
-    }
+}
 
 .header li a {
     display: block;
@@ -56,7 +56,7 @@ h2 {
 .header .logo {
     display: block;
     float: left;
-    font-size: 2em;
+    font-size: 100%;
     padding: 10px 20px;
     text-decoration: none;
 }
@@ -359,7 +359,7 @@ footer {
 
 /* 48em = 768px */
 
-@media (min-width: 48em) {
+@media (min-width: 950px) {
     .header li {
         float: left;
     }
@@ -381,8 +381,8 @@ footer {
 
 /* For medium to smaller screens size from 700px wide and down */
 @media screen and (max-width: 700px) {
-    #logo {
-        font-size: 120%;
+    .logo {
+        font-size: 100%;
     }
 
     #about-stadiums {
