@@ -310,12 +310,12 @@ footer {
 }
 
 .submit {
-    float: right;
+    float: left;
     border-radius: 50%;
     border: solid 2px black;
     width: 5em;
     height: 5em;
-    font-size: 100%;
+    font-size: 50%;
 }
 
 .contact-us {
@@ -342,6 +342,16 @@ footer {
     width: 200px;
     border-radius: 25px;
     border: 2px solid black;
+}
+
+.signup label {
+    width: 200px;
+    display: inline-block;
+}
+
+.contact-us label {
+    width: 200px;
+    display: inline-block;
 }
 
 /* media queries */
