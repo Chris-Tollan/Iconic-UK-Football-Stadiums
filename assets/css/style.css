@@ -334,9 +334,12 @@ footer {
     text-transform: uppercase;
 }
 
-#fname,
-#lname,
-#email,
+#fname-signup,
+#fname-contactus,
+#lname-signup,
+#lname-contactus,
+#email-signup,
+#email-contactus,
 #stadium {
     height: 35px;
     width: 200px;
