@@ -112,6 +112,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 - The Gallery page will feature a circle (chosen due to this also being the shape of a football) with text within describing what the user can hope to achieve by viewing the gallery of photgraphs on this page.
 - The photographs will show the user key areas of each stadium. The photographs will be contained with a carousel which the user will be required to click or swipe through these images. This will keep the page interactive and allow the user to browse the image at their own pace and viewing pleasure.
 
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/c8977089-a284-4d31-8cf3-944eb20d432b)
 
 
 ### Sign-Up
@@ -153,6 +154,10 @@ The aim of this website is to provide users from both the UK and abroad with det
 ## Credits
 
 ### Code
+
+- For the carousels displayed on this website code was sourced from the following link and styled to suit the needs of the site - https://getbootstrap.com/docs/4.0/components/carousel/
+- For the modal displayed on this website in the stadiums page code was sourced from the following link and styled to suit the needs of the site - https://getbootstrap.com/docs/4.0/components/modal/
+- For the nav bar to colapse form menu items into a hamburger menu for smaller screens code was sourced via this link - https://codepen.io/mutedblues/pen/MmPNPG)
 
 ### Content
 
