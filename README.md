@@ -109,7 +109,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 ### Gallery
 
-- The Gallery page will feature a circle (chosen due to this also being the shape of a football) with text within describing what the user can hope to achieve by viewing the gallery of photgraphs on this page.
+- Initially the plan was for the Gallery page to feature a circle (chosen due to this also being the shape of a football) with text within describing what the user can hope to achieve by viewing the gallery of photgraphs on this page, however the decision was made to display this text within a rectangle above the gallery carousel in order to keep with the style of the rest of the website.
 - The photographs will show the user key areas of each stadium. The photographs will be contained with a carousel which the user will be required to click or swipe through these images. This will keep the page interactive and allow the user to browse the image at their own pace and viewing pleasure.
 
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/c8977089-a284-4d31-8cf3-944eb20d432b)
