@@ -159,7 +159,7 @@ The aim of this website is to provide users from both the UK and abroad with det
   ![Sign Up Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/a011a24e-d5d2-4519-8edd-335ee2665f86)
 
 
-
+- https://validator.w3.org/nu/#textarea
 
 
 ## Known Bugs
