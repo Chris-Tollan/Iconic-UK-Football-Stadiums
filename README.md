@@ -147,6 +147,21 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 ## Testing
 
+- Google Lighthouse testing carried out via Chrome Developer Tools returned the following accessibility scores for each page
+
+- Home
+  ![Home Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/0009c07e-ae6f-4ca4-b47e-a81995d87846)
+- Stadiums
+  ![Stadiums Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/a655e5dd-2aea-4483-a105-08d414b16518)
+- Gallery
+  ![Gallery Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/7a986c97-54ac-49ba-b0df-6eae2a0acee1)
+- Sign Up
+  ![Sign Up Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/a011a24e-d5d2-4519-8edd-335ee2665f86)
+
+
+
+
+
 ## Known Bugs
 
 ### Deployment
