@@ -81,6 +81,11 @@ The aim of this website is to provide users from both the UK and abroad with det
 - For users using a larger screen (desktop/laptop) the Menu options will be displayed within the navigation bar horizontally with the page the user is currently on underlined.
 - For users using a smaller screen (tablet/phone) the menu will collapse into a Hamburger Icon.
 
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/2fe4341a-10bf-4b80-893a-14a4a8af873c)
+
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/d91fa293-681e-4475-aa09-2d7a080d8807)
+
+
 **Background-Image**
 
 - This section will include a stock image of fans celebrating within a stadium.
@@ -91,25 +96,39 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 - This section will be a carousel which will automatically slide through quotes and testimonials from famous footballing figures and also from fans who have visited the stadiums featured on the webiste. The idea of using a carousel is to keep the home page interactive for the user with the quotes and testimonials being used to engage the user.
 
+  ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/bc1c540e-097e-4954-9d8e-b92ef327a349)
+
+
 ### Stadiums
 
 - This section is where the user can observe an image of each stadium which can be clicked or pressed to reveal further information about each stadium.
 - Each image will also have a link to the teams website who play at the stadium.
+
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/55bb5a0a-99fc-481c-892b-764173d57fa5)
+
 
 ### Gallery
 
 - The Gallery page will feature a circle (chosen due to this also being the shape of a football) with text within describing what the user can hope to achieve by viewing the gallery of photgraphs on this page.
 - The photographs will show the user key areas of each stadium. The photographs will be contained with a carousel which the user will be required to click or swipe through these images. This will keep the page interactive and allow the user to browse the image at their own pace and viewing pleasure.
 
+
+
 ### Sign-Up
 
 - This page will feature both a sign up form where the user can select a stadium from a drop down menu, fill out there details and submit them with the idea being they would receive further information on visiting the stadium.
 - The page will also feature a contact us form where the user can fill out their details and then type their comments/suggestions into a free text box.
 
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/eb150c41-2292-4d48-887e-45433ab3734c)
+
+
 ### The footer
 
 - The footer will remain fixed at the bootom of every page fetaured on the website.
 - The footer will contain links to social media pages and also a contact us link which will navigate to the Sign Up page wheere the contact us form will be located.
+
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/bf8efa40-50dc-4694-9902-e3faf90cfabc)
+
 
 ## Features
 
