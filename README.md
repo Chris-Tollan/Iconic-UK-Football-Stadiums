@@ -2,6 +2,8 @@
 
 Iconic UK Football Stadiums is a website designed to showcase a number of the best stadiums that the UK has to offer. The website will provide users with some information about each stadium, photographic images from the interior and exterior of the stadiums and testimonials from some of the biggest names in football about the stadiums atmosphere. The webiste will also offer the user the access to further information about physcially attending the stadiums.
 
+View the live project via this link - https://chris-tollan.github.io/Iconic-UK-Football-Stadiums/
+
 ## Aim
 
 The aim of this website is to provide users from both the UK and abroad with details of some Iconic Football Stadiums with a view of the user eventually seeking to attend a stadium in person.
@@ -49,7 +51,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 - The background image is a stock image of fans celebrating within a stadium. This image is striking and has been selected as the background image to captivate the user immediately.
 - The images for the stadium page will be an aerial side profile image which will capture the entirity of each stadium.
 - The images for the gallery page will consist of four for each stadium, outside of stadium, inside the stadium and images from well known spots of the stadium.
-
+  
 ### Wireframing
 
 - I initially drew my ideas onto a notepad and discussed these ideas along with how I intended to keep the website responsive to different devices and also user friendly with my mentor. I thereafter used Balsamiq to help me further visualise the ideas I had for this website.
@@ -145,6 +147,16 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 ### Frameworks, Libraries and Programs Used
 
+- Bootstrap
+- Google Fonts
+- Font Awesome
+- Balsamiq
+- jQuery
+- Code Anywhere
+- GitHub
+- Codepen.io
+- Cloud Convert
+
 ## Testing
 
 - Google Lighthouse testing carried out via Chrome Developer Tools returned the following accessibility scores for each page
@@ -159,17 +171,34 @@ The aim of this website is to provide users from both the UK and abroad with det
   ![Sign Up Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/a011a24e-d5d2-4519-8edd-335ee2665f86)
 
 
-- https://validator.w3.org/nu/#textarea
+- The W3C HTML Validator was used to validate the HTML for all four pages (Home, Stadiums, Gallery and Sign Up). All four pages pages successfully passed through the validator with no errors or warnings being found.
+- The W3C CSS Validator was used to validate the CSS used. The CSS successfully passed through the validator with no errors being found. The results can be seen via the following link
+  http://jigsaw.w3.org/css-validator/validator$link
+As can be seen from the results one warning message is displayed as following
+
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/0d828b90-5feb-465b-bc51-fb88c5ab2ad0)
+
 
 
 ## Known Bugs
 
+
 ### Deployment
+
+The project was deployed to GitHub Pages using the following steps...
+
+- Log in to GitHub and locate GitHub Repository for this project
+- At the top of the Repository locate and select the Settings button.
+- Navigate to GitHub Pages Section.
+- Under source select the dropdown for None and select Main Branch.
+- The browser automatically refreshes.
+- The link to the published site can be seen in the GitHub Pages Section.
 
 ## Credits
 
 ### Code
 
+- For the initial basic structure for this projects HTML I followed the one used in Code Institute's Love Running Walkthrough project, I thereafter edited this to suit and style towards the planned structure and style for this project.
 - For the carousels displayed on this website code was sourced from the following link and styled to suit the needs of the site - https://getbootstrap.com/docs/4.0/components/carousel/
 - For the modal displayed on this website in the stadiums page code was sourced from the following link and styled to suit the needs of the site - https://getbootstrap.com/docs/4.0/components/modal/
 - For the nav bar to colapse form menu items into a hamburger menu for smaller screens code was sourced via this link - https://codepen.io/mutedblues/pen/MmPNPG)
@@ -181,6 +210,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 ### Media
 
 - All images were obtained from Google Images with advanced search settings being used to ensure the images used are fully available for reuse and that there was no copyright infringement.
+- Images were then reduced in file size using - https://cloudconvert.com/
 
 ### Acknowledgements
 
