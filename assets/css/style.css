@@ -368,12 +368,10 @@ footer {
     #about-stadiums {
         width: 50%;
     }
-}
 
-/* For larger to medium screens size from 1100px wide and down */
-@media screen and (max-width: 1100px) {
-    #stadium-content {
-        column-count: 3;
+    .stadium-img {
+        width: 70%;
+        height: 250px;
     }
 }
 
@@ -399,9 +397,16 @@ footer {
     }
 }
 
+/* For screens size from 1100px wide and down */
+@media screen and (max-width: 1100px) {
+    .stadium-img {
+        width: 200px;
+        height: 150px;
+    }
+}
+
 /* For medium to smaller screens size from 700px wide and down */
 @media screen and (max-width: 700px) {
-
     .logo h1 {
         font-size: 180%;
     }
@@ -410,8 +415,13 @@ footer {
         width: 90%;
     }
 
-    #stadium-content {
-        column-count: 2;
+    .stadium-content-top {
+        column-count: 1;
+        margin-bottom: 1px;
+    }
+
+    .stadium-content-bottom {
+        column-count: 1;
     }
 }
 
