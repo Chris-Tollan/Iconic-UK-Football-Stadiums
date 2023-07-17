@@ -297,7 +297,7 @@ footer {
     width: auto;
 }
 
-#gallery {
+.gallery {
     text-align: center;
     font-size: 120%;
     width: 70%;
