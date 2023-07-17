@@ -291,8 +291,8 @@ footer {
     padding: 50px 100px;
 }
 
-.carousel-inner img {
-    margin: auto;
+.gallery-carousel-inner img {
+    margin: 0 auto;
     max-height: 500px;
     width: auto;
 }
@@ -422,6 +422,13 @@ footer {
 
     .stadium-content-bottom {
         column-count: 1;
+    }
+}
+
+/* For medium to smaller screens size from 550px wide and down */
+@media screen and (max-width: 550px) {
+    #gallery-carousel {
+        padding: 10px 25px;
     }
 }
 
