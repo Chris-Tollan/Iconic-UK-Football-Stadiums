@@ -313,48 +313,13 @@ footer {
 
 /* sign up and contact us page */
 
-.signup-contactus-header {
-    text-align: center;
-    font-size: 120%;
-    width: 60%;
-    height: auto;
-    background-color: rgba(9, 114, 35, 0.7);
-    margin: 0 auto;
-    text-align: center;
-    font-size: 120%;
-    margin-bottom: 20px;
-    border-radius: 25px;
-    border: 2px solid white;
-}
-
-.signup-contactus-header h2 {
-    text-transform: uppercase;
-}
-
-#signup-contact {
+#contact-us-section {
     padding: 20px;
     font-size: 150%;
-
-}
-
-.signup {
-    height: 500px;
-    width: 45%;
-    float: left;
-    border-radius: 25px;
-    border: 2px solid white;
-    padding: 10px;
-    background-color: rgba(9, 114, 35, 0.7);
-    margin-bottom: 40px;
-}
-
-.signup h2 {
-    text-align: center;
-    text-transform: uppercase;
 }
 
 .submit {
-    float: left;
+    float: right;
     border-radius: 50%;
     border: solid 2px black;
     width: 5em;
@@ -363,9 +328,9 @@ footer {
 }
 
 .contact-us {
-    height: 500px;
+    height: 550px;
     width: 45%;
-    float: right;
+    margin: 0 auto;
     border-radius: 25px;
     border: 2px solid white;
     padding: 10px;
@@ -378,13 +343,9 @@ footer {
     text-transform: uppercase;
 }
 
-#fname-signup,
 #fname-contactus,
-#lname-signup,
 #lname-contactus,
-#email-signup,
-#email-contactus,
-#stadium {
+#email-contactus {
     height: 35px;
     width: 200px;
     border-radius: 25px;
