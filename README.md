@@ -53,7 +53,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 - The background image is a stock image of fans celebrating within a stadium. This image is striking and has been selected as the background image to captivate the user immediately.
 - The images for the stadium page will be an aerial side profile image which will capture the entirity of each stadium.
 - The images for the gallery page will consist of four for each stadium, outside of stadium, inside the stadium and images from well known spots of the stadium.
-  
+
 ### Wireframing
 
 - I initially drew my ideas onto a notepad and discussed these ideas along with how I intended to keep the website responsive to different devices and also user friendly with my mentor. I thereafter used Balsamiq to help me further visualise the ideas I had for this website.
@@ -87,9 +87,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/b011e485-5b18-4f01-8db9-0f7194ba1d92)
 
-
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/d91fa293-681e-4475-aa09-2d7a080d8807)
-
 
 **Background-Image**
 
@@ -101,7 +99,7 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 - This section will be a carousel which will automatically slide through quotes and testimonials from famous footballing figures and also from fans who have visited the stadiums featured on the webiste. The idea of using a carousel is to keep the home page interactive for the user with the quotes and testimonials being used to engage the user.
 
- ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/57798489-7d9d-458a-8a2c-97946164d29a)
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/57798489-7d9d-458a-8a2c-97946164d29a)
 
 ### Stadiums
 
@@ -117,13 +115,11 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/c8977089-a284-4d31-8cf3-944eb20d432b)
 
-
 ### Contact-Us
 
-- Initially this page was planned to feature both a sign up form where the user can select a stadium from a drop down menu, fill out there details and submit them with the idea being they would receive further information on visiting the stadium. However in order to avoid multiple forms being submitted from the one page the decision was  made to only have a contact us form as users could obtain the same info from this on request as they would have in the sign up for anyway.
+- Initially this page was planned to feature both a sign up form where the user can select a stadium from a drop down menu, fill out there details and submit them with the idea being they would receive further information on visiting the stadium. However in order to avoid multiple forms being submitted from the one page the decision was made to only have a contact us form as users could obtain the same info from this on request as they would have in the sign up for anyway.
 
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/98fce444-a6f8-42f9-8491-b9f755f56bf9)
-
 
 ### The footer
 
@@ -132,6 +128,9 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/bf8efa40-50dc-4694-9902-e3faf90cfabc)
 
+### 404 Error Page
+
+- A 404.html file was created and styled to the general theme of the website.
 
 ## Features
 
@@ -162,21 +161,19 @@ The aim of this website is to provide users from both the UK and abroad with det
 - Google Lighthouse testing carried out via Chrome Developer Tools returned a score of 100 for accessibility for each page
 
 - Home
-  
+
   ![Home page google lighthouse score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/56553547-9274-4fae-bc93-1222f919698b)
 
-  
 - Stadiums
-  
+
   ![Stadiums google lighthouse score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/93a6f7a1-2147-4abd-b314-c5152bc18064)
 
-  
 - Gallery
-  
+
   ![Gallery Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/7a986c97-54ac-49ba-b0df-6eae2a0acee1)
-  
+
 - Contact Us
-  
+
   ![Contact Us page Google lighthouse score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/9d56f1f5-8b80-4cd2-b60c-7f5b0b01f6f1)
 
 - The W3C HTML Validator was used to validate the HTML for all four pages (Home, Stadiums, Gallery and Sign Up). All four pages pages successfully passed through the validator with no errors found. All four pages display the following warning however as it relates to the section which contains only the background image for the website no action was taking in relation to the warning as header elements are not applicable.
@@ -184,9 +181,9 @@ The aim of this website is to provide users from both the UK and abroad with det
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/364c7a2e-4f79-4b19-9a7a-ea1e7903a015)
 
 - The W3C CSS Validator was used to validate the CSS used. The CSS successfully passed through the validator with no errors being found. The results can be seen via the following link
-  
+
   [http://jigsaw.w3.org/css-validator/validator$link](http://jigsaw.w3.org/css-validator/validator$link)
-  
+
 As can be seen from the results one warning message is displayed as following
 
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/0d828b90-5feb-465b-bc51-fb88c5ab2ad0)
@@ -194,6 +191,8 @@ As can be seen from the results one warning message is displayed as following
 however this was discussed with my mentor and it would appear to be a fault within my codeanywhere workspace and does not effect the deployed website in any way.
 
 - I have personally tested the deployed website across multiple browsers and devices and it appears to be responsive.
+
+- 404 page has been tested and is working appropriately.
 
 ## Known Bugs
 
@@ -234,4 +233,3 @@ The project was deployed to GitHub Pages using the following steps...
 - My mentor for continuous support, feedback and direction.
 - Code Institute for providing me with the knowledge and learning material required to complete this project.
 - My peers within the Slack Community for being there when I have needed guidance, advice and support.
-
