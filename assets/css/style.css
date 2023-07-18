@@ -328,8 +328,8 @@ footer {
 }
 
 .contact-us {
-    height: 550px;
     width: 45%;
+    height: auto;
     margin: 0 auto;
     border-radius: 25px;
     border: 2px solid white;
@@ -350,11 +350,6 @@ footer {
     width: 200px;
     border-radius: 25px;
     border: 2px solid black;
-}
-
-.signup label {
-    width: 200px;
-    display: inline-block;
 }
 
 .contact-us label {
@@ -403,6 +398,10 @@ footer {
         width: 200px;
         height: 150px;
     }
+
+    .contact-us {
+        width: 60%;
+    }
 }
 
 /* For medium to smaller screens size from 700px wide and down */
@@ -422,6 +421,10 @@ footer {
 
     .stadium-content-bottom {
         column-count: 1;
+    }
+
+    .contact-us {
+        width: 90%;
     }
 }
 
