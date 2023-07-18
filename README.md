@@ -1,5 +1,7 @@
 # Iconic UK Football Stadiums
 
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/457feb47-ab97-4ac5-8ea3-be5faf4738ce)
+
 Iconic UK Football Stadiums is a website designed to showcase a number of the best stadiums that the UK has to offer. The website will provide users with some information about each stadium, photographic images from the interior and exterior of the stadiums and testimonials from some of the biggest names in football about the stadiums atmosphere. The webiste will also offer the user the access to further information about physcially attending the stadiums.
 
 View the live project via this link - https://chris-tollan.github.io/Iconic-UK-Football-Stadiums/
@@ -83,7 +85,8 @@ The aim of this website is to provide users from both the UK and abroad with det
 - For users using a larger screen (desktop/laptop) the Menu options will be displayed within the navigation bar horizontally with the page the user is currently on underlined.
 - For users using a smaller screen (tablet/phone) the menu will collapse into a Hamburger Icon.
 
-![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/2fe4341a-10bf-4b80-893a-14a4a8af873c)
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/b011e485-5b18-4f01-8db9-0f7194ba1d92)
+
 
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/d91fa293-681e-4475-aa09-2d7a080d8807)
 
@@ -98,16 +101,14 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 - This section will be a carousel which will automatically slide through quotes and testimonials from famous footballing figures and also from fans who have visited the stadiums featured on the webiste. The idea of using a carousel is to keep the home page interactive for the user with the quotes and testimonials being used to engage the user.
 
-  ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/bc1c540e-097e-4954-9d8e-b92ef327a349)
-
+ ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/57798489-7d9d-458a-8a2c-97946164d29a)
 
 ### Stadiums
 
 - This section is where the user can observe an image of each stadium which can be clicked or pressed to reveal further information about each stadium.
 - Each image will also have a link to the teams website who play at the stadium.
 
-![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/55bb5a0a-99fc-481c-892b-764173d57fa5)
-
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/1901967d-b8b0-47ec-a41b-6322582f3f83)
 
 ### Gallery
 
@@ -117,18 +118,17 @@ The aim of this website is to provide users from both the UK and abroad with det
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/c8977089-a284-4d31-8cf3-944eb20d432b)
 
 
-### Sign-Up
+### Contact-Us
 
-- This page will feature both a sign up form where the user can select a stadium from a drop down menu, fill out there details and submit them with the idea being they would receive further information on visiting the stadium.
-- The page will also feature a contact us form where the user can fill out their details and then type their comments/suggestions into a free text box.
+- Initially this page was planned to feature both a sign up form where the user can select a stadium from a drop down menu, fill out there details and submit them with the idea being they would receive further information on visiting the stadium. However in order to avoid multiple forms being submitted from the one page the decision was  made to only have a contact us form as users could obtain the same info from this on request as they would have in the sign up for anyway.
 
-![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/eb150c41-2292-4d48-887e-45433ab3734c)
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/98fce444-a6f8-42f9-8491-b9f755f56bf9)
 
 
 ### The footer
 
 - The footer will remain fixed at the bootom of every page fetaured on the website.
-- The footer will contain links to social media pages and also a contact us link which will navigate to the Sign Up page wheere the contact us form will be located.
+- The footer will contain links to social media pages and also a contact us link which will navigate to the Contact Us page where the contact us form will be located.
 
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/bf8efa40-50dc-4694-9902-e3faf90cfabc)
 
@@ -163,32 +163,42 @@ The aim of this website is to provide users from both the UK and abroad with det
 
 - Home
   
-  ![Home Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/0009c07e-ae6f-4ca4-b47e-a81995d87846)
+  ![Home page google lighthouse score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/56553547-9274-4fae-bc93-1222f919698b)
+
   
 - Stadiums
   
-  ![Stadiums Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/a655e5dd-2aea-4483-a105-08d414b16518)
+  ![Stadiums google lighthouse score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/93a6f7a1-2147-4abd-b314-c5152bc18064)
+
   
 - Gallery
   
   ![Gallery Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/7a986c97-54ac-49ba-b0df-6eae2a0acee1)
   
-- Sign Up
+- Contact Us
   
-  ![Sign Up Page Google Lighthouse Score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/a011a24e-d5d2-4519-8edd-335ee2665f86)
+  ![Contact Us page Google lighthouse score](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/9d56f1f5-8b80-4cd2-b60c-7f5b0b01f6f1)
 
+- The W3C HTML Validator was used to validate the HTML for all four pages (Home, Stadiums, Gallery and Sign Up). All four pages pages successfully passed through the validator with no errors found. All four pages display the following warning however as it relates to the section which contains only the background image for the website no action was taking in relation to the warning as header elements are not applicable.
 
-- The W3C HTML Validator was used to validate the HTML for all four pages (Home, Stadiums, Gallery and Sign Up). All four pages pages successfully passed through the validator with no errors or warnings being found.
+![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/364c7a2e-4f79-4b19-9a7a-ea1e7903a015)
+
 - The W3C CSS Validator was used to validate the CSS used. The CSS successfully passed through the validator with no errors being found. The results can be seen via the following link
-  http://jigsaw.w3.org/css-validator/validator$link
+  
+  [http://jigsaw.w3.org/css-validator/validator$link](http://jigsaw.w3.org/css-validator/validator$link)
+  
 As can be seen from the results one warning message is displayed as following
 
 ![image](https://github.com/Chris-Tollan/Iconic-UK-Football-Stadiums/assets/134441833/0d828b90-5feb-465b-bc51-fb88c5ab2ad0)
 
+however this was discussed with my mentor and it would appear to be a fault within my codeanywhere workspace and does not effect the deployed website in any way.
 
+- I have personally tested the deployed website across multiple browsers and devices and it appears to be responsive.
 
 ## Known Bugs
 
+- When deployed it was discovered that the Nav Bar link to the Contact Us page was missing from the Gallery Page Nav Bar. This has been fixed and the Contact Us link is now showing and working.
+- When deployed it was discovere that the contact us form was not responsive to difference screen sizes with the form elements often jumping outwith the border they contained within. This has not been fixed and checks on different devices show this is now responsive.
 
 ### Deployment
 
@@ -212,7 +222,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Content
 
-- Al the content was writieen by developer however information such as stadium capacity, year built, address and information about what you can do at each stadium was obtained from each teams website which is hyperlinked in the website and also wikipedia.
+- Al the content was written by developer however information such as stadium capacity, year built, address and information about what you can do at each stadium was obtained from each teams website which is hyperlinked in the website and also wikipedia.
 
 ### Media
 
@@ -223,3 +233,5 @@ The project was deployed to GitHub Pages using the following steps...
 
 - My mentor for continuous support, feedback and direction.
 - Code Institute for providing me with the knowledge and learning material required to complete this project.
+- My peers within the Slack Community for being there when I have needed guidance, advice and support.
+

@@ -404,13 +404,6 @@ footer {
     }
 }
 
-/* For screens 900px wide and down */
-@media screen and (max-wdith: 900px) {
-    .contact-us {
-        height: 700px;
-    }
-}
-
 /* For medium to smaller screens size from 700px wide and down */
 @media screen and (max-width: 700px) {
     .logo h1 {
